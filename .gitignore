@@ -1,0 +1,40 @@
+# Fichiers et dossiers spécifiques aux IDE
+
+## VSCode
+.vscode/
+*.code-workspace
+
+## PyCharm et IntelliJ
+.idea/
+
+## Sublime Text
+.sublime-workspace
+.sublime-project
+
+## Atom
+.atom/
+.project
+
+## Eclipse
+.classpath
+.project
+.settings/
+
+## Visual Studio
+.vs/
+
+## NetBeans
+nbproject/
+
+## Vim
+*.swp
+*.swo
+
+## Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+/.emacs.d/
+/bin/
+

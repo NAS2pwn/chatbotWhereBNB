@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'TwCenMT';
+    src: url("./Tw Cen MT Std SemiBold.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#app { 
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color : #0b0c0d;
+        color : white;
+    }
+}
+/*Gris très légèrement plus clair #0f0f0f*/
